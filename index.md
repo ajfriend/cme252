@@ -5,12 +5,10 @@ title: Home
 
 # CME 252: Introduction to Optimization
 
-some text
+Welcome to the course website for CME 252: Introduction to Optimization, brought to you by the [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/) (ICME) at Stanford University.
 
 ## Announcements
-link to [assingments](assignments)
-
-link to [example](data/example.txt)
+- 9/27: First class on Monday, September 28
 
 ## Schedule
 - Lectures are on Mondays and Wednesdays, 3:30-4:50pm, in [McCullough](https://goo.gl/maps/u15gEQdFCzA2) 115

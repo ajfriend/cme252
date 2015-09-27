@@ -8,7 +8,7 @@ title: Home
 some text
 
 ## Announcements
-link to [assingments](/assignments)
+link to [assingments](assignments)
 
 ## Schedule
 

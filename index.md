@@ -7,9 +7,11 @@ title: Home
 
 some text
 
-# Schedule
+## Announcements
 
-# Instructor
+## Schedule
 
-# Course Requirements
+## Instructor
+
+## Course Requirements
 

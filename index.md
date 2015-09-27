@@ -19,4 +19,10 @@ Welcome to the course website for CME 252: Introduction to Optimization, brought
 - Please include "CME 252" in email subject line
 
 ## Course Requirements
+- The course is given for 1 unit, and graded as Satisfactory / No Credit
+- [To receive credit](https://studentaffairs.stanford.edu/registrar/faculty/unit-of-credit), students must complete 3-4 short [homework assignments](assignments)
+- Assignments will consist of writing Python scripts to solve optimization problems with [CVXPY](http://www.cvxpy.org/)
+
+## Prerequisites
+
 

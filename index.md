@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-hey
+# CME 252: Introduction to Optimization

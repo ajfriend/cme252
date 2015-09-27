@@ -10,6 +10,8 @@ some text
 ## Announcements
 link to [assingments](assignments)
 
+link to [example](data/example.txt)
+
 ## Schedule
 
 ## Instructor

@@ -23,6 +23,12 @@ Welcome to the course website for CME 252: Introduction to Optimization, brought
 - [To receive credit](https://studentaffairs.stanford.edu/registrar/faculty/unit-of-credit), students must complete 3-4 short [homework assignments](assignments)
 - Assignments will consist of writing Python scripts to solve optimization problems with [CVXPY](http://www.cvxpy.org/)
 
+## Course Description
+
+This course introduces mathematical optimization and modeling, with a focus on convex optimization. Topics include: varieties of mathematical optimization, convexity of functions and sets, convex optimization modeling with CVXPY, gradient descent and basic distributed optimization, in-depth examples from machine learning, statistics and other fields and applications of bi-convexity and non-convex gradient descent.
+
 ## Prerequisites
+
+Familiarity with linear algebra, differential multivariable calculus, and basic probability and statistics. Experience with Python will be helpful, but not required.
 
 

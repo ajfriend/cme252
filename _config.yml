@@ -7,8 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            CME 252
-description:      Introduction to Optimization
+title:            'CME 252'
+tagline:          'Introduction to Optimization'
+description:      'Introduction to Optimization'
 url:              http://ajfriend.github.io/
 baseurl:          /cme252
 

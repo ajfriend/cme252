@@ -4,3 +4,4 @@
 - homework guidelines
 - piazza?
 - office hours?
+- hw0?

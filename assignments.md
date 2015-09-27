@@ -3,4 +3,8 @@ layout: page
 title: Assignments
 ---
 
-About one per week.
+Expect about one per week.
+
+## HW0: CVXPY installation and homework submission
+
+## HW1: Convexity of sets and functions

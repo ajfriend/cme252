@@ -5,3 +5,4 @@
 - piazza?
 - office hours?
 - hw0?
+- quizzes?

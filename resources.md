@@ -3,6 +3,9 @@ layout: page
 title: Resources
 ---
 
+## Websites
+- [dcp.stanford.edu](http://dcp.stanford.edu/) is a great tool for practicing building convex expressions
+
 ## Software
 - [CVXPY](http://www.cvxpy.org/)
 

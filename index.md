@@ -8,6 +8,7 @@ title: Home
 some text
 
 ## Announcements
+link to [assingments](/assignments)
 
 ## Schedule
 

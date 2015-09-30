@@ -8,6 +8,8 @@ title: Home
 Welcome to the course website for CME 252: Introduction to Optimization, brought to you by the [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/) (ICME) at Stanford University.
 
 ## Announcements
+- 9/29: Office hours will be on Thursdays, 5:30-7:30pm, in the [Huang building](https://www.google.com/maps/place/Jen-Hsun+Huang+Engineering+Center/@37.4279167,-122.1742945,18z/data=!3m1!4b1!4m2!3m1!1s0x808fbb2ad1efaf1d:0xe4be58a43178043f) basement, in front of ICME
+- 9/29: Homework 0 is posted!
 - 9/27: First class on Monday, September 28
 
 ## Schedule
@@ -21,6 +23,7 @@ Welcome to the course website for CME 252: Introduction to Optimization, brought
 ## Instructor
 - AJ Friend, `ajfriend at stanford dot edu`
 - Please include "CME 252" in email subject line
+- Office hours: Thursdays, 5:30-7:30pm, in the [Huang building](https://www.google.com/maps/place/Jen-Hsun+Huang+Engineering+Center/@37.4279167,-122.1742945,18z/data=!3m1!4b1!4m2!3m1!1s0x808fbb2ad1efaf1d:0xe4be58a43178043f) basement, in front of ICME
 
 ## Course Requirements
 - The course is given for 1 unit, and graded as Satisfactory / No Credit

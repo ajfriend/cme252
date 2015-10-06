@@ -12,3 +12,5 @@ Material and many examples from Nick Henderson, Steven Diamond, and Stephen Boyd
     - [Sparse recovery LASSO](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/convexity/notebooks/lasso.ipynb)
     - [Image in-painting](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/convexity/notebooks/inpaint.ipynb)
     - [Robust kalman filtering](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/convexity/notebooks/robust_kalman.ipynb)
+- [Least-squares and fitting](https://github.com/icme/cme252-optimization/raw/master/lectures/fitting/fitting.pdf)
+    - [Least-squares](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/fitting/least-squares.ipynb) 

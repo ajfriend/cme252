@@ -14,3 +14,6 @@ Material and many examples from Nick Henderson, Steven Diamond, and Stephen Boyd
     - [Robust kalman filtering](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/convexity/notebooks/robust_kalman.ipynb)
 - [Least-squares and fitting](https://github.com/icme/cme252-optimization/raw/master/lectures/fitting/fitting.pdf)
     - [Least-squares](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/fitting/least-squares.ipynb) 
+    - [Huber](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/fitting/huber.ipynb)
+    - [Exponential fit](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/fitting/exponential-fit.ipynb)
+    - [Polynomial fit](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/fitting/polynomial-fit.ipynb)

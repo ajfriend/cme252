@@ -19,3 +19,4 @@ Material and many examples from Nick Henderson, Steven Diamond, and Stephen Boyd
     - [Polynomial fit](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/fitting/polynomial-fit.ipynb)
 - [Support Vector Machines](https://github.com/icme/cme252-optimization/raw/master/lectures/svm/svm.pdf)
     - [SVM](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/svm/svm.ipynb)
+- [Gradient Descent](https://github.com/icme/cme252-optimization/raw/master/lectures/gradient/gradient.pdf)

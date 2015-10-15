@@ -13,6 +13,7 @@ Expect about one per week.
     - [hw1.pdf](https://github.com/icme/cme252-optimization/raw/master/homework/hw1/hw1.pdf)
     - [hw1.py](https://raw.githubusercontent.com/icme/cme252-optimization/master/homework/hw1/hw1.py)
     - [grade_hw1.py](https://raw.githubusercontent.com/icme/cme252-optimization/master/homework/hw1/grade_hw1.py)
+    - Solutions: [hw1_sol.py](https://raw.githubusercontent.com/icme/cme252-optimization/master/homework/hw1/hw1_sol.py)
 
 - Homework 1: Convex functions and regression
     - [hw2.pdf](https://github.com/icme/cme252-optimization/raw/master/homework/hw2/hw2.pdf)

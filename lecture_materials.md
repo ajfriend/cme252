@@ -20,3 +20,7 @@ Material and many examples from Nick Henderson, Steven Diamond, and Stephen Boyd
 - [Support Vector Machines](https://github.com/icme/cme252-optimization/raw/master/lectures/svm/svm.pdf)
     - [SVM](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/lectures/svm/svm.ipynb)
 - [Gradient Descent](https://github.com/icme/cme252-optimization/raw/master/lectures/gradient/gradient.pdf)
+- Examples
+    - [Min-Max Games: Constrained Rock/Paper/Scissors](https://github.com/icme/cme252-optimization/blob/master/lectures/examples/rps.ipynb)
+    - [Guarding a Parade Route](https://github.com/icme/cme252-optimization/blob/master/lectures/examples/parade_route.ipynb)
+    - [Max Flow Problems in Graphs](https://github.com/icme/cme252-optimization/blob/master/lectures/flows/max_flow.ipynb)

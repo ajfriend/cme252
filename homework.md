@@ -21,4 +21,4 @@ Expect about one per week.
     - [grade_hw2.py](https://raw.githubusercontent.com/icme/cme252-optimization/master/homework/hw2/grade_hw2.py)
 
 - Homework 3: Nonlinear Support Vector Classifier
-    - [hw3.ipynb](https://raw.githubusercontent.com/icme/cme252-optimization/master/homework/hw3/hw3.ipynb)
+    - [hw3.ipynb](http://nbviewer.ipython.org/github/icme/cme252-optimization/blob/master/homework/hw3/hw3.ipynb)

@@ -19,7 +19,7 @@ any of the topics we cover in class.
 
 ## Classes
 - [EE 364a: Convex Optimization I](http://web.stanford.edu/class/ee364a/)
-- [EE 364b: Convex Optimization I](http://web.stanford.edu/class/ee364b/)
+- [EE 364b: Convex Optimization II](http://web.stanford.edu/class/ee364b/)
 - [MS&E 318: Large-Scale Numerical Optimization](http://web.stanford.edu/class/msande318/)
 - [MS&E 314: Linear and Conic Optimization with Applications](http://web.stanford.edu/class/msande314/)
 - [CME 304: Numerical Optimization](http://web.stanford.edu/class/cme304/)
